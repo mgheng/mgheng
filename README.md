@@ -78,7 +78,7 @@ const developer = {
 
 ---
 
-### Contribution Snake
+### 🐍 Contribution Snake
 
 <!-- 把 你的用户名 替换为你的 GitHub 用户名 -->
 <div align="center">
