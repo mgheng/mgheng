@@ -14,7 +14,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          user: 你的用户名
+          user: wmuj
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
@@ -22,18 +22,26 @@ jobs:
           optimize: svg
           experimental_features: --optimize-svg
 
-          # 3D 等距贡献日历
+          # 3D 贡献日历
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # 编程语言统计
+          # 语言分析
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 6
 
-          # 代码行数统计
+          # 代码行数
           plugin_lines: yes
 
-          # Star 趋势图
+          # Star 趋势
           plugin_stargazers: yes
           plugin_stargazers_charts_type: chartist
+
+          # WakaTime（精简）
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 4
+          plugin_wakatime_sections: time, languages
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: wmuj
