@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/微信公众号-你的公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
 </p>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=你的用户名.你的用户名&left_color=%2300D9FF&right_color=%230099FF"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mgheng.mgheng&left_color=%2300D9FF&right_color=%230099FF"/>
 
 </div>
 
@@ -85,7 +85,7 @@ const developer = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgheng/mgheng/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgheng/mgheng/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mgheng/mgheng/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -106,7 +106,7 @@ const developer = {
 ### Connect with Me
 
 <p>
-  <a href="https://github.com/你的用户名/你的用户名/issues">
+  <a href="https://github.com/mgheng/mgheng/issues">
     <img src="https://img.shields.io/badge/GitHub-联系我-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
