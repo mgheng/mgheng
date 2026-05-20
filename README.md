@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=180&section=header&text=%22解%22%20码%20|%20byteCodeX&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Code%20Your%20Future%20|%20Share%20Your%20Knowledge&descSize=18&descAlignY=55"/>
 
 <!-- 打字动画 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%F0%9F%91%8B+Hi%2C+I'm+pixel+of+byteCodeX;%F0%9F%94%A5%E4%BB%A3%E7%A0%81%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E8%80%81%E5%B8%88%F0%9F%8E%93%EF%BC%8C%E5%AE%9E%E6%88%98%E6%98%AF%E6%9C%80%E5%BF%AB%E7%9A%84%E6%88%90%E9%95%BF%F0%9F%9A%80%EF%BC%81;%F0%9F%92%A1+%E5%8A%A9%E5%8A%9B%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%99%BD%E8%BF%9B%E9%98%B6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%F0%9F%91%8B+Hi%2C+I'm+pixel+of+byteCodeX;%E4%BB%A3%E7%A0%81%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E8%80%81%E5%B8%88%F0%9F%8E%93%EF%BC%8C%E5%AE%9E%E6%88%98%E6%98%AF%E6%9C%80%E5%BF%AB%E7%9A%84%E6%88%90%E9%95%BF%F0%9F%9A%80%EF%BC%81;%F0%9F%92%A1+%E5%8A%A9%E5%8A%9B%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%99%BD%E8%BF%9B%E9%98%B6%EF%BC%81)](https://git.io/typing-svg)
 
 <!-- 社交媒体徽章 -->
 
