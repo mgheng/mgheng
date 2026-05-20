@@ -16,7 +16,7 @@
 </p>
 
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=wmuj.wmuj&left_color=%2300D9FF&right_color=%230099FF"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mgheng.mgheng&left_color=%2300D9FF&right_color=%230099FF"/>
 
 </div>
 
@@ -89,9 +89,9 @@ const 码上全栈创享家 = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wmuj/wmuj/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wmuj/wmuj/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/wmuj/wmuj/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgheng/mgheng/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgheng/mgheng/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mgheng/mgheng/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -120,7 +120,7 @@ const 码上全栈创享家 = {
   <a href="https://xhslink.com/m/4bDeF8XqF8b">
     <img src="https://img.shields.io/badge/小红书-关注我-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/>
   </a>
-  <a href="https://github.com/wmuj/wmuj/issues">
+  <a href="https://github.com/mgheng/mgheng/issues">
     <img src="https://img.shields.io/badge/GitHub-联系我-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
