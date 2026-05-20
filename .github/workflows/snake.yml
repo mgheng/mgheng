@@ -1,11 +1,12 @@
 # 贡献贪吃蛇动画
 # 使用说明：直接复制到你的仓库，无需修改任何内容
 # 首次使用需要去 Actions 页面手动触发一次
+name: Snake Game Animation
 
-name: Snake
 on:
-  schedule: [{cron: "0 0 * * *"}]  # 每天 UTC 0点自动运行
-  workflow_dispatch:               # 允许手动触发
+  schedule:
+    - cron: "0 0 * * *"   # 每天 UTC 0 点运行
+  workflow_dispatch:       # 允许手动触发
 
 jobs:
   generate:
@@ -13,17 +14,28 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk/svg-only@v3
+      # 生成贪吃蛇 SVG（亮色 + 暗色两个版本）
+      - name: Generate snake animations
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # 自定义配色 —— 让蛇本身更鲜艳，背景更有质感
+          snake_color: 'url(#snakeGradient)'      # 使用渐变色
+          background_color: '#0d1117'              # 深色背景，与暗色主题协调
+          color_east: '#2ea043'                    # 东侧格子颜色（高贡献绿）
+          color_west: '#8b949e'                    # 西侧格子颜色（低贡献灰）
+          color_east_animation: '#39d353'          # 蛇经过时的高亮绿
+          color_west_animation: '#f0883e'          # 蛇经过时的暖橙色
+          # 输出两个文件：普通版 + 暗色版（使用 GitHub 暗色调色板）
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      # 部署到 output 分支（保持和原来一样）
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
