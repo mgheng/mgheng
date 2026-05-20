@@ -16,8 +16,6 @@
 </p>
 
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=mgheng.mgheng&left_color=%2300D9FF&right_color=%230099FF"/>
-
 </div>
 
 ### 👨‍💻 About Me
