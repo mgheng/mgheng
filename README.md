@@ -10,8 +10,8 @@
 <!-- 社交媒体徽章 -->
 
 <p>
-  <a href="https://xhslink.com/m/4bDeF8XqF8b"><img src="https://img.shields.io/badge/小红书-码上全栈创享家-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/微信公众号-码上全栈创享家-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
+  <a href="https://xhslink.com/m/4bDeF8XqF8b"><img src="https://img.shields.io/badge/小红书-byteCodeX-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/微信公众号-byteCodeX-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
   <img src="https://img.shields.io/badge/全网粉丝-10000+-00D9FF?style=for-the-badge&logo=rss&logoColor=white"/>
 </p>
 
